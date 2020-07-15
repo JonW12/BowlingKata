@@ -1,0 +1,13 @@
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.exe
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.deps.json
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.runtimeconfig.json
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.runtimeconfig.dev.json
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.dll
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.pdb
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.csprojAssemblyReference.cache
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.AssemblyInfoInputs.cache
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.AssemblyInfo.cs
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.csproj.CoreCompileInputs.cache
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.dll
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.pdb
+C:\Users\jonathanwilliamson\source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.genruntimeconfig.cache
