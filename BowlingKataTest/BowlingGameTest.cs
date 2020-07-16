@@ -27,6 +27,11 @@ namespace BowlingKataTest
             game.Roll(5);
         }
 
+        private void RollStrike()
+        {
+            game.Roll(10);
+        }
+
         [TestMethod]
         public void TestGutterGame()
         {
@@ -57,11 +62,21 @@ namespace BowlingKataTest
         public void TestOneStrike()
         {
             SetUp();
-            game.Roll(10);
+            RollStrike();
             game.Roll(3);
             game.Roll(4);
             RollMany(16, 0);
             Assert.AreEqual(24, game.Score());
         }
+
+        [TestMethod]
+        public void TestPerfectGame()
+        {
+            SetUp();
+            RollMany(12, 10);
+            Assert.AreEqual(300, game.Score());
+        }
+
+        
     }
 }
